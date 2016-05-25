@@ -1,0 +1,17 @@
+body {
+	background-color:#FFE;
+	border-style: double;
+}
+
+a {
+	color: #900;
+}
+
+.our-link {
+	color:#887;
+}
+
+img {
+	padding:5px;
+   border:2px solid #021a40;	
+}
